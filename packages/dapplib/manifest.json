@@ -1,0 +1,14 @@
+{
+    "name": "Test",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/administrator_role": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Polychrome",
+        "/category/asset_value_tracking/token/symbol": "PCR",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "500000000"
+    }
+}
